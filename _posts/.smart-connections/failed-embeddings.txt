@@ -41,6 +41,10 @@
 2023-06-09-sale.md#Sold#Wacom Pen & Touch drawing tablet with stylus
 2023-06-09-sale.md#Sold#Xiaomi Redmi Note 7 Pro (Android Phone)
 2023-06-09-sale.md#Sold#iPhone 11 (Black, 128GB)
+2023-06-13-ai-interactions.md
+2023-06-13-ai-interactions.md#Assistants with personality
+2023-06-13-ai-interactions.md#Autocomplete
+2023-06-13-ai-interactions.md#Further Reading
 2024-03-17-turning-28.md
 AA2 Years at Microsoft.md
 Untitled.canvas
