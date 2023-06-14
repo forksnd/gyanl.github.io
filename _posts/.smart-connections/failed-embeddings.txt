@@ -75,3 +75,4 @@ aa2023-01-01-year-in-review.md
 aa2023-01-01-year-in-review.md#Got Covid
 aa2023-01-01-year-in-review.md#IDC Reunion
 aa2023-01-01-year-in-review.md#Shimla trip
+figma.md
