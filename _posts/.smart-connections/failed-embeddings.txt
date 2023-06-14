@@ -14,6 +14,9 @@
 2022-03-17-turning-26.md
 2022-03-17-turning-26.md#Turning 26 (2022)
 2022-03-17-turning-26.md#Turning 26 (2022)#Highlights of the year#Trip to Lansdowne
+2022-09-15-figma.md
+2022-09-15-figma.md#Poster for the event
+2022-09-15-figma.md#Prototyping in Figma#Connecting screens
 2023-03-17-turning-27.md
 2023-03-17-turning-27.md#Bought a ceramic cup (August 2022)
 2023-03-17-turning-27.md#Diwali at Supernova (October 2022)
@@ -66,6 +69,7 @@
 2023-06-13-ai-interactions.md#Autocomplete
 2023-06-13-ai-interactions.md#References
 2023-06-13-ai-interactions.md#Writing feedback
+2024-03-17-turning-28.md
 AA2 Years at Microsoft.md
 aa2023-01-01-year-in-review.md
 aa2023-01-01-year-in-review.md#Got Covid
