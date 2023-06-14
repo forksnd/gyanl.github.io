@@ -2,36 +2,54 @@
 2016-05-10-delhi-dribbble.md#Check out the shot on [Dribbble](https://dribbble.com/shots/2474738-Delhi-Dribbble-Meetup).
 2016-05-10-delhi-dribbble.md#Meetup attendees at the India Habitat Centre, New Delhi.
 2016-05-10-delhi-dribbble.md#This looks interesting.
-2019-07-13-microsoft-internship.md
-2019-11-28-pairings 1.md
-2020-07-13-microsoft.md#Projects at Microsoft#Dictation for OneNote mobile
+2020-07-13-microsoft.md
+2020-07-13-microsoft.md#Dictation for OneNote mobile
+2020-07-13-microsoft.md#Microsoft Designer mobile app
+2020-07-13-microsoft.md#Microsoft Word for iPad
+2020-07-13-microsoft.md#Mobile refresh for Word, Excel & PowerPoint
+2020-07-13-microsoft.md#Presenter Coach for PowerPoint Mobile
+2020-07-13-microsoft.md#Rethinking Read Aloud for Word mobile
+2020-07-13-microsoft.md#Transcription in Microsoft Word
 2020-07-18-ceed-idc.md#Preparing for the Interview#Go through research work conducted by the faculty
 2022-03-17-turning-26.md
+2022-03-17-turning-26.md#Turning 26 (2022)
+2022-03-17-turning-26.md#Turning 26 (2022)#Highlights of the year#Trip to Lansdowne
 2023-03-17-turning-27.md
+2023-03-17-turning-27.md#Bought a ceramic cup (August 2022)
+2023-03-17-turning-27.md#Diwali at Supernova (October 2022)
+2023-03-17-turning-27.md#Goa (December 2022)
+2023-03-17-turning-27.md#Goa (December 2022)#Staring at my laptop at Avalon Sunset in Anjuna
+2023-03-17-turning-27.md#Got promoted and changed teams
+2023-03-17-turning-27.md#IDC Reunion (June 2022)
+2023-03-17-turning-27.md#Moved out again (August 2022)
+2023-03-17-turning-27.md#Moved out again (August 2022)#I wanted a large workdesk, and I spent a lot of time trying to figure out what size of bed and table would fit best in my room.
+2023-03-17-turning-27.md#Moved out again (August 2022)#Our door was missing a number plate, so I cut out some numbers and taped them to the door.
+2023-03-17-turning-27.md#Mussoorie and getting COVID (May 2022)
+2023-03-17-turning-27.md#Mussoorie and getting COVID (May 2022)#With Sheetal and Kritika in Mussoorie. Kritika had only just joined Microsoft, but the three of us got COVID together (from each other?) and very quickly became friends.
+2023-03-17-turning-27.md#Shimla trip (September 2022)
 2023-03-17-turning-27.md#Teaching
 2023-03-17-turning-27.md#Teaching#Birthday
-2023-03-17-turning-27.md#Turning 27 (2023)
-2023-03-17-turning-27.md#Turning 27 (2023)#Changed teams
-2023-03-17-turning-27.md#Turning 27 (2023)#Diwali at Supernova (October 2022)
-2023-03-17-turning-27.md#Turning 27 (2023)#Goa for a month
-2023-03-17-turning-27.md#Turning 27 (2023)#Goa for a month#Staring at my laptop at Avalon Sunset in Anjuna
-2023-03-17-turning-27.md#Turning 27 (2023)#Got Covid
-2023-03-17-turning-27.md#Turning 27 (2023)#IDC Reunion
-2023-03-17-turning-27.md#Turning 27 (2023)#Moved out (again)
-2023-03-17-turning-27.md#Turning 27 (2023)#Moved out (again)#Our door was missing a number plate, so I cut out some numbers and taped them to the door.
-2023-03-17-turning-27.md#Turning 27 (2023)#Moved out (again)#What sold me on the (slightly small) room was the glass sliding door to the balcony that brought in so much natural light. On clear days I had a beautiful view of the Noida skyline with the Yamuna below. It reminded me of Bombay.
-2023-03-17-turning-27.md#Turning 27 (2023)#Mussoorie (May 2022)
-2023-03-17-turning-27.md#Turning 27 (2023)#Shimla trip
+2023-03-17-turning-27.md#Things I want to do at 27
 2023-05-11-aicronym.md
+2023-05-11-rish-e.md
 2023-05-15-unequal.md
-2023-06-02-investu.md
-2023-06-02-investu.md#About Stonks AI
-2023-06-02-investu.md#About Stonks AI#Stonks AI logo in dark and light mode
-2023-06-02-stonks-ai 1.md
+2023-05-15-unequal.md#About Unequal
+2023-05-15-unequal.md#About Unequal#Dark and Light treatment
+2023-05-15-unequal.md#About Unequal#Logo
 2023-06-02-stonks-ai.md
 2023-06-02-stonks-ai.md#About Stonks AI
 2023-06-02-stonks-ai.md#About Stonks AI#Stonks AI logo in dark and light mode
 2023-06-09-sale.md
+2023-06-09-sale.md#Hello!
+2023-06-09-sale.md#Hello!#Apple Homepod (1st Gen)
+2023-06-09-sale.md#Hello!#Canon EOS 1300D DSLR Camera
+2023-06-09-sale.md#Hello!#Wood desk
+2023-06-09-sale.md#Hello!#Workstation PC
+2023-06-09-sale.md#Hello!#Xbox One Controller
+2023-06-09-sale.md#Hello!#Xbox Series S (with Series X/S Controller)
+2023-06-09-sale.md#Reserved
+2023-06-09-sale.md#Reserved#Google Chromecast Audio
+2023-06-09-sale.md#Sold
 2023-06-09-sale.md#Sold#Asus ROG Gaming PC
 2023-06-09-sale.md#Sold#HP Envy 14 inch laptop (1080p)
 2023-06-09-sale.md#Sold#Kindle Paperwhite (7th Generation)
@@ -46,10 +64,9 @@
 2023-06-13-ai-interactions.md
 2023-06-13-ai-interactions.md#Assistants with personality
 2023-06-13-ai-interactions.md#Autocomplete
-2023-06-13-ai-interactions.md#Further Reading
-2024-03-17-turning-28.md
+2023-06-13-ai-interactions.md#References
+2023-06-13-ai-interactions.md#Writing feedback
 AA2 Years at Microsoft.md
-Untitled.canvas
 aa2023-01-01-year-in-review.md
 aa2023-01-01-year-in-review.md#Got Covid
 aa2023-01-01-year-in-review.md#IDC Reunion
